@@ -68,7 +68,7 @@ let expectdData = [{
 }]
 
 
-//solution - basic approach
+//solution - straightforward
 
 const formatedData = JSON.stringify(inputData)
 const parsedInput = JSON.parse(formatedData);
